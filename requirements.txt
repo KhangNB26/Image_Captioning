@@ -1,0 +1,10 @@
+# Core
+torch>=2.0
+transformers>=4.42.0
+pillow
+# Interface
+gradio>=4.0
+# Translation & evaluation
+deep-translator
+nltk
+git+https://github.com/salaniz/pycocoevalcap
